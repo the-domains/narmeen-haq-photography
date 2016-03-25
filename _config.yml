@@ -1,0 +1,28 @@
+name: Narmeen Haq Photography
+favicon: null
+layout_spectrum: 0.27689547347836196
+typography_spectrum: 0.4758867684286088
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.11783813592046499
+  lightness: 0.5764215304516256
+  saturation: 0.8131818410474807
+  rhythmicContrast: 0.6386864553205669
+purpose: []
